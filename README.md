@@ -21,3 +21,6 @@
 5. Làm thế nào để luôn đổi mới?
    - Cải Tiến Liên Tục: Luôn tìm kiếm cách cải thiện quy trình bán hàng và mở rộng phương thức tiếp cận khách hàng. Điều này giúp chúng tôi không chỉ duy trì mà còn phát triển thêm lượng khách hàng trẻ, năng động.
    - Thích Nghi Với Thị Trường: Theo dõi và thích ứng với sự thay đổi của thị trường và nhu cầu khách hàng. Cập nhật xu hướng mới, điều chỉnh chiến lược kinh doanh để luôn duy trì sự cạnh tranh với các cửa hàng khác trong cùng khu vực và ngoài khu vực.
+   - Sử dụng các chỉ số hiệu suất để đánh giá hiệu quả của chiến lược bán hàng và dựa vào phản hồi từ khách hàng để điều chỉnh và cải thiện liên tục.
+   - Đầu tư vào đào tạo và phát triển nhân sự để nâng cao năng lực và kỹ năng của họ, giúp họ phục vụ khách hàng tốt hơn và hiệu quả hơn.
+   - Tạo ra một môi trường làm việc tích cực và truyền cảm hứng, khuyến khích sự sáng tạo và cam kết của nhân viên với mục tiêu và giá trị của doanh nghiệp.
