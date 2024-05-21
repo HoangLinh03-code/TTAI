@@ -1,6 +1,6 @@
 - Đây là 2 file code để cào dữ liệu từ trang kidplaza và bibomart
 - Sau khi cào và xử lí xong sẽ đưa ra file csv - file data cuối cùng để phân tích dữ liệu sản phẩm
-![image](https://github.com/HoangLinh03-code/TTAI/assets/84447084/1c8a9848-3d2e-4599-b3c7-a2fba399af76)
+![image](https://github.com/HoangLinh03-code/TTAI/assets/84447084/3e16b301-06da-4deb-ab17-bd19126840be)
 
 # I. Cách để bán hàng hiệu quả:
 1. Mục tiêu bán hàng là gì?
@@ -33,3 +33,7 @@
    - Sử dụng các chỉ số hiệu suất để đánh giá hiệu quả của chiến lược bán hàng và dựa vào phản hồi từ khách hàng để điều chỉnh và cải thiện liên tục.
    - Đầu tư vào đào tạo và phát triển nhân sự để nâng cao năng lực và kỹ năng của họ, giúp họ phục vụ khách hàng tốt hơn và hiệu quả hơn.
    - Tạo ra một môi trường làm việc tích cực và truyền cảm hứng, khuyến khích sự sáng tạo và cam kết của nhân viên với mục tiêu và giá trị của doanh nghiệp.
+# II. Dữ liệu về dân cư ở thành phố Hà Nội:
+![image](https://github.com/HoangLinh03-code/TTAI/assets/84447084/1b2864f6-631f-4e4e-9c75-3d4eb6444841)
+
+
