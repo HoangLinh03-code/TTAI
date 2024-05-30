@@ -33,8 +33,9 @@
    - Sử dụng các chỉ số hiệu suất để đánh giá hiệu quả của chiến lược bán hàng và dựa vào phản hồi từ khách hàng để điều chỉnh và cải thiện liên tục.
    - Đầu tư vào đào tạo và phát triển nhân sự để nâng cao năng lực và kỹ năng của họ, giúp họ phục vụ khách hàng tốt hơn và hiệu quả hơn.
    - Tạo ra một môi trường làm việc tích cực và truyền cảm hứng, khuyến khích sự sáng tạo và cam kết của nhân viên với mục tiêu và giá trị của doanh nghiệp.
+
 # II. Dữ liệu về dân cư ở thành phố Hà Nội:
-![image](https://github.com/HoangLinh03-code/TTAI/assets/84447084/1b2864f6-631f-4e4e-9c75-3d4eb6444841
+![image](https://github.com/HoangLinh03-code/TTAI/assets/84447084/1b2864f6-631f-4e4e-9c75-3d4eb6444841)
 ### Nguồn dữ liệu được lấy từ trang web của tổng cục thống kê Việt Nam 
 https://www.gso.gov.vn/
 
